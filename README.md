@@ -7,15 +7,9 @@ Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará um
 1. **[Controle de Motor DC com Ponte H BTS7960](./controle-velocidade-motor-dc/README.md)**
    - Controle de rotação e velocidade de um motor DC utilizando a ponte H BTS7960.
    
-2. **[Sensor de Temperatura com Display LCD](./sensor-temperatura-lcd/README.md)**
-   - Leitura da temperatura ambiente com um sensor DHT11 e exibição em um display LCD 16x2.
-   
-3. **[Automação Residencial com Relé](./automacao-residencial/README.md)**
-   - Controle de dispositivos eletrônicos usando Arduino e módulo relé para automação residencial.
-   
-4. **[Medidor de Distância com Sensor Ultrassônico](./medidor-distancia/README.md)**
-   - Medição de distância utilizando um sensor ultrassônico HC-SR04 com Arduino.
-
+2. **[Lida e Desliga LED com PushButton](./liga-desliga-led-pushbutton/README.md)**
+   - Ligar e Desligar um Led com dois PushButtons.
+ 
 ## Sobre o Repositório
 
 Este repositório tem como objetivo compartilhar soluções e ideias criativas utilizando a plataforma Arduino. Cada projeto foi desenvolvido com o intuito de explorar diferentes componentes e técnicas de controle e automação, proporcionando aprendizado prático e aplicações reais.
