@@ -32,3 +32,22 @@ Cada diretório de projeto inclui:
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/jcfrantz/labinventores/'projeto'.git
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver ideias para novos projetos ou melhorias nos projetos existentes, sinta-se à vontade para enviar um pull request. Para contribuir:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (git checkout -b nova-feature).
+3. Faça suas alterações e commit (git commit -m 'Adiciona nova feature').
+4. Envie o push para a branch (git push origin nova-feature).
+5. Abra um pull request.
+
+## Contato
+
+Se tiver dúvidas ou sugestões, entre em contato:
+
+Julio Cesar Frantz
+Email: julio.frantz@labinventores.com.br
+Instagram: @profjuliofrantz
+Linkedin: https://www.linkedin.com/in/profjuliofrantz/
