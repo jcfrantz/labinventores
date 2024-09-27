@@ -2,6 +2,8 @@
 
 Este projeto utiliza dois botões para ligar e desligar um LED (ou motor) usando um Arduino. O programa implementa a técnica de **debounce**, que garante leituras estáveis dos botões, prevenindo leituras incorretas devido a ruídos elétricos ou flutuações rápidas.
 
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/30a03102-e0f4-49d6-9734-3fda35f0ca8c)
+
 ## Funcionalidades
 
 - **Botão 1 (pino 5)**: Liga o LED/motor.
