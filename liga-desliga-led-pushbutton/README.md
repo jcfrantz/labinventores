@@ -26,6 +26,9 @@ Este projeto utiliza dois botões para ligar e desligar um LED (ou motor) usando
 | Botão 2     | 6               |
 | LED/Motor   | 8               |
 
+![Fantastic Turing](https://github.com/user-attachments/assets/33d20bf7-ca8e-4fb0-afd7-c2144bd2c921)
+
+
 - Conecte um terminal de cada botão ao pino correspondente e o outro terminal ao **GND**.
 - O LED ou motor deve estar conectado ao **pino 8** e ao **GND**.
 
