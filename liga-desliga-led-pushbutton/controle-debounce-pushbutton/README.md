@@ -13,7 +13,7 @@ Este projeto utiliza dois botões para ligar e desligar um LED (ou motor) usando
 - **Arduino Uno** (ou qualquer placa Arduino compatível)
 - **2 Pushbuttons**
 - **1 LED ou Motor**
-- **Resistores de Pull-up (se necessário, dependendo do botão)**
+- **1 resistor 220 ohms para o LED** 
 - **Protoboard e Jumpers**
 
 ## Esquema de Conexão
