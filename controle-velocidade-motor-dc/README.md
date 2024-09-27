@@ -128,7 +128,7 @@ void desligarMotor() {
     Serial.println("Motor Desligado");
   }
 }
-```cpp
+```
 
 ## Instruções de uso
 
