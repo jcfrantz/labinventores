@@ -48,6 +48,6 @@ Contribuições são bem-vindas! Se você tiver ideias para novos projetos ou me
 Se tiver dúvidas ou sugestões, entre em contato:
 
 Julio Cesar Frantz
-Email: julio.frantz@labinventores.com.br
-Instagram: @profjuliofrantz
-Linkedin: https://www.linkedin.com/in/profjuliofrantz/
+- Email: julio.frantz@labinventores.com.br
+- Instagram: @profjuliofrantz
+- Linkedin: https://www.linkedin.com/in/profjuliofrantz/
