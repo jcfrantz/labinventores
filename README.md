@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará um
 
 ## Índice de Projetos
 
-1. **[Controle de Motor DC com Ponte H BTS7960](./controle-motor-dc/README.md)**
+1. **[Controle de Motor DC com Ponte H BTS7960](./controle-velocidade-motor-dc/README.md)**
    - Controle de rotação e velocidade de um motor DC utilizando a ponte H BTS7960.
    
 2. **[Sensor de Temperatura com Display LCD](./sensor-temperatura-lcd/README.md)**
