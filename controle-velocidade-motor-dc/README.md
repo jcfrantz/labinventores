@@ -2,6 +2,9 @@
 
 Este projeto implementa o controle de um motor DC utilizando a ponte H BTS7960 com um Arduino. O sentido de rotação do motor (horário e anti-horário) é controlado por dois botões, e a velocidade pode ser ajustada usando dois botões adicionais para aumentar ou diminuir a velocidade em incrementos de 25. Há também um botão dedicado para desligar o motor.
 
+[![controle-velocidade-motor-dc
+](https://img.youtube.com/vi/ZhWgDWPxWf0/0.jpg)](https://www.youtube.com/watch?v=ZhWgDWPxWf0)
+
 ## Funcionalidades
 
 - **Controle de Sentido de Rotação**: O motor pode girar no sentido horário ou anti-horário.
