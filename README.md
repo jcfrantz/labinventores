@@ -1,6 +1,6 @@
 # Meus Projetos com Arduino
 
-Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará uma coleção de projetos que desenvolvi utilizando a plataforma Arduino, com foco em automação, controle de motores, sensores e muito mais. Cada projeto inclui uma descrição completa, código-fonte, e instruções de montagem para que você possa reproduzir e aprender com eles.
+Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará uma coleção de projetos que desenvolvi utilizando a plataforma Arduino, com foco em automação e robótica, sensores e muito mais. Cada projeto inclui uma descrição completa, código-fonte, e instruções de montagem para que você possa reproduzir e aprender com eles.
 
 ## Índice de Projetos
 
