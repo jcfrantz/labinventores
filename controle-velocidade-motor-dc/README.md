@@ -25,15 +25,15 @@ Este projeto implementa o controle de um motor DC utilizando a ponte H BTS7960 c
 
 | Componente      | Pino no Arduino  |
 |-----------------|------------------|
-| Botão Sentido Anti-Horário (Botão 1) | 6 |
-| Botão Sentido Horário (Botão 2)      | 7 |
-| Botão Desligar Motor (Botão 3)       | 8 |
-| Botão Aumentar Velocidade (Botão 4)  | 5 |
-| Botão Diminuir Velocidade (Botão 5)  | 4 |
-| PWM Sentido Horário                  | 10 |
-| PWM Sentido Anti-Horário             | 9 |
-| Habilitar Sentido Horário            | 16 |
-| Habilitar Sentido Anti-Horário       | 14 |
+| Botão Sentido Anti-Horário (Botão 1)      | 6 |
+| Botão Sentido Horário (Botão 2)           | 7 |
+| Botão Desligar Motor (Botão 3)            | 8 |
+| Botão Aumentar Velocidade (Botão 4)       | 5 |
+| Botão Diminuir Velocidade (Botão 5)       | 4 |
+| PWM Sentido Horário RPWM                  | 10 |
+| PWM Sentido Anti-Horário LPWM             | 9 |
+| Habilitar Sentido Horário R_EN            | 16 |
+| Habilitar Sentido Anti-Horário L_EN       | 14 |
 
 ## Como Funciona
 
