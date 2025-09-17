@@ -1,8 +1,4 @@
-Claro, aqui está o README completo no formato Markdown, pronto para você copiar e colar diretamente no seu GitHub.
 
------
-
-````markdown
 # Bengala Inteligente com Arduino para Detecção de Obstáculos
 
 Este projeto implementa uma bengala eletrônica inteligente utilizando um Arduino e um sensor ultrassônico HC-SR04. O objetivo é detectar obstáculos a uma distância inferior a 40 cm e alertar o usuário por meio de um sinal sonoro emitido por um buzzer, aumentando a segurança e a mobilidade de pessoas com deficiência visual.
