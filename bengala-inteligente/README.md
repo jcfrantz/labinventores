@@ -3,6 +3,10 @@
 
 Este projeto implementa uma bengala eletrônica inteligente utilizando um Arduino e um sensor ultrassônico HC-SR04. O objetivo é detectar obstáculos a uma distância inferior a 40 cm e alertar o usuário por meio de um sinal sonoro emitido por um buzzer, aumentando a segurança e a mobilidade de pessoas com deficiência visual.
 
+A versão do arquivo .ino 'bengala_buzzer_simples' utiliza apenas um buzzer ativo de 5V e a versão 'bengala_modulo_buzzer' utiliza um módulo, por isso os scripts são diferentes. Baixe de acordo com o buzzer que você irá utilizar. O esquema de conexão está declarado nos scripts.
+
+A seguir, detalho a construção da bengala com o buzzer ativo de 5V.
+
 [![bengala-inteligente-arduino](https://img.youtube.com/vi/UyF4Qit7c3Y/0.jpg)](https://youtu.be/UyF4Qit7c3Y)
 
 ## Funcionalidades
