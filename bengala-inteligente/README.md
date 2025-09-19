@@ -36,7 +36,7 @@ A seguir, detalho a construção da bengala com o buzzer ativo de 5V.
 
 <img width="1536" height="640" alt="Bengala Automatizada - Circuito com Arduino" src="https://github.com/user-attachments/assets/b5bcb66f-0baf-40ff-9f90-5a0dfa6477d8" />
 
-- Link para o TinkerCAD: [Circuito no TinkerCAD]([https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=3s2cAmV87z2F8LSTdyxHtvA-ZVuK8qj6tw_4shxL5cc](https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)
+- Link para o TinkerCAD: [[Circuito no TinkerCAD]([https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=3s2cAmV87z2F8LSTdyxHtvA-ZVuK8qj6tw_4shxL5cc](https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)](https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)
 
 ## Como Funciona
 
