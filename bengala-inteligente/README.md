@@ -3,6 +3,10 @@
 
 Este projeto implementa uma bengala eletrônica inteligente utilizando um Arduino e um sensor ultrassônico HC-SR04. O objetivo é detectar obstáculos a uma distância inferior a 40 cm e alertar o usuário por meio de um sinal sonoro emitido por um buzzer, aumentando a segurança e a mobilidade de pessoas com deficiência visual.
 
+A versão do arquivo .ino 'bengala_buzzer_simples' utiliza apenas um buzzer ativo de 5V e a versão 'bengala_modulo_buzzer' utiliza um módulo, por isso os scripts são diferentes. Baixe de acordo com o buzzer que você irá utilizar. O esquema de conexão está declarado nos scripts.
+
+A seguir, detalho a construção da bengala com o buzzer ativo de 5V.
+
 [![bengala-inteligente-arduino](https://img.youtube.com/vi/UyF4Qit7c3Y/0.jpg)](https://youtu.be/UyF4Qit7c3Y)
 
 ## Funcionalidades
@@ -29,6 +33,10 @@ Este projeto implementa uma bengala eletrônica inteligente utilizando um Arduin
 | Sensor HC-SR04 (Echo) | 6 |
 | Buzzer (+) | 7 |
 | Buzzer (-) | GND |
+
+<img width="1536" height="640" alt="Bengala Automatizada - Circuito com Arduino" src="https://github.com/user-attachments/assets/b5bcb66f-0baf-40ff-9f90-5a0dfa6477d8" />
+
+- Link para o TinkerCAD: [[Circuito no TinkerCAD]([https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=3s2cAmV87z2F8LSTdyxHtvA-ZVuK8qj6tw_4shxL5cc](https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)](https://www.tinkercad.com/things/hi7dyhZLCyG-bengala-automatizada-circuito-com-arduino)
 
 ## Como Funciona
 
