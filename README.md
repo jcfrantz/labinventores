@@ -10,8 +10,12 @@ Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará um
 2. **[Liga e Desliga LED com PushButton - Debounce](./liga-desliga-led-pushbutton/README.md)**
    - Ligar e Desligar um Led com dois PushButtons utilizando o Debounce.
   
-2. **[Sistema de Irrigação Inteligente](./IrrigacaoInteligente/README.md)**
+3. **[Sistema de Irrigação Inteligente](./IrrigacaoInteligente/README.md)**
    - Controlar uma bomba para irrigação com sensor de umidade.
+
+4. **[Bengala Inteligente](./bengala-inteligente/README.md)**
+   - Criar uma bengala que detecta obstáculos com sensor ultrassônico.
+   
  
 ## Sobre o Repositório
 
