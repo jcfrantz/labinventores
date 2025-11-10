@@ -7,8 +7,11 @@ Bem-vindo ao meu repositório de projetos com Arduino! Aqui você encontrará um
 1. **[Controle de Motor DC com Ponte H BTS7960](./controle-velocidade-motor-dc/README.md)**
    - Controle de rotação e velocidade de um motor DC utilizando a ponte H BTS7960.
    
-2. **[Lida e Desliga LED com PushButton - Debounce](./liga-desliga-led-pushbutton/README.md)**
+2. **[Liga e Desliga LED com PushButton - Debounce](./liga-desliga-led-pushbutton/README.md)**
    - Ligar e Desligar um Led com dois PushButtons utilizando o Debounce.
+  
+2. **[Sistema de Irrigação Inteligente](./irrigacao/README.md)**
+   - Controlar uma bomba para irrigação com sensor de umidade.
  
 ## Sobre o Repositório
 
